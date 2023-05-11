@@ -1,10 +1,15 @@
 
+<<<<<<< HEAD
 Hola mundo de fresa 
 adios familia
+=======
+Hola mundo de caramelo
+adios venus
+>>>>>>> 1d6ceb0738fd7895254e012aaf60d7c138e89e95
 
 
 linea1
 linea2
 
-linea10
-linea20
+linea40
+linea50
