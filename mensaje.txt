@@ -1,4 +1,4 @@
-Hola mundo de fresa 
+Hola mundo
 adios venus
 
 
@@ -6,4 +6,4 @@ linea1
 linea2
 
 linea40
-linea50
+lineaZ
